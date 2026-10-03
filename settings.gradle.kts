@@ -20,4 +20,3 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ScreenTranslator"
-include(":app")
